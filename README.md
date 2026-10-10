@@ -14,7 +14,7 @@
 
 ### 🙋‍♀️ About me
 
-I'm a final-year CS undergrad who enjoys turning ideas into clean, working web experiences. I care about writing structured code, collaborating in teams, and continuously picking up new tools. Outside of code, I'm into event organizing, trekking, and singing.
+I'm a computer engineer and a pgdm student  who enjoys turning ideas into clean, working web experiences. I care about writing structured code, collaborating in teams, and continuously picking up new tools. Outside of code, I'm into event organizing, trekking, and singing.
 
 I'm actively looking for roles in **web development** and **software engineering** where I can grow fast and contribute meaningfully.
 
