@@ -98,7 +98,7 @@ Covered Object-Oriented Programming, C++ concepts, and problem-solving technique
 
 - 📧 [anushkaghule.sae.comp@gmail.com](mailto:anushkaghule.sae.comp@gmail.com)
 - 📍 Pune, Maharashtra, India
-- 📞 +91-8605460475
+  
 
 ---
 
